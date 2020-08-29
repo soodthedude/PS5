@@ -1,0 +1,90 @@
+#title{
+  background-color: black;
+  padding-bottom: 10%;
+}
+
+.heading{
+  font-family: Montserrat-black;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 3%;
+}
+
+.response{
+  height: 100%;
+  width: 100%;
+}
+
+i{
+  size:7px;
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+p{
+  color: grey;
+}
+
+.icon{
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: blue;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+}
+
+.slide_img1{
+  width: 10%;
+  border-radius: 100%;
+  margin: 3%
+}
+#press{
+  background-color: black;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.company_logo{
+  width: 15%;
+  margin: 20px 20px 20px 20px
+}
+
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.copy_logo{
+  text-align: center;
+  background: black;
+  padding: 2%;
+}
